@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCharacter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Character Id="1" Name="Load_8">
+    <tiles>
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="2" Name="Load_7">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="3" Name="Load_6">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="4" Name="Load_5">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="5" Name="Load_4">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="6" Name="Load_3">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="7" Name="Load_2">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x1F" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="8" Name="Load_1">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x1F" />
+    </tiles>
+  </Character>
+  <Character Id="9" Name="Load_0">
+    <tiles>
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+      <RowData Value="0x0" />
+    </tiles>
+  </Character>
+</ArrayOfCharacter>
